@@ -28,6 +28,6 @@ body {
 }
 
 .cabecalho-lista-item a {
- 
+ text-decoration: none;
   color: white;
 }
